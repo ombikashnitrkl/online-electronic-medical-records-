@@ -1,0 +1,3 @@
+20160310:220332 csv_files_header error: incorrect file type text
+20160310:220332 csv_files_header error: incorrect file type text
+20160310:220344 csv_dirfile_list: batch wrong type README.txt
